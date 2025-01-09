@@ -8,6 +8,7 @@ import styles from "../styles/Home.module.css";
 
 const Home = () => {
   const { liff, liffError } = useLiff();
+  const x = 1;
 
   return (
     <div>
